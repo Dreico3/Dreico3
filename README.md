@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p align="left">
-  <img height="200" src="./hello-world.gif" />
+  <img src="./hello-world.gif" />
 </p>
 
 **Dreico3/Dreico3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
