@@ -23,11 +23,10 @@ const Erick_Cruz = {
 }
 ```
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreico3&layout=compact)
 
-</a>
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dreico3&show_icons=true&theme=apprentice)
+![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreico3&layout=compact&theme=apprentice)
 
 <br>
 ---
