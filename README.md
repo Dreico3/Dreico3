@@ -22,7 +22,4 @@ const Erick_Cruz = {
  challenge: "hacer q mi codigo compile a la primera"
 }
 ```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Me considero alguien que consigue lo que se propone, ya que creo que los logros son resultados de las decisiones que se toman y las metas que cada uno se ponga</b> :)</em>
-
 ---
