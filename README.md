@@ -1,6 +1,6 @@
 <div>
   
-  <h6>-----------<img align='mid' src="./hello-world.gif" width="800" height="200">---------</h6>
+  <h6><img align='mid' src="./hello-world.gif" width="800" height="200"></h6>
   
 </div>
 <h2> Hola, me llamo Erick ! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h2>
