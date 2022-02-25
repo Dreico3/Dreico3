@@ -22,4 +22,12 @@ const Erick_Cruz = {
  challenge: "hacer q mi codigo compile a la primera"
 }
 ```
+### 📊 Github Stats
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreico3&layout=compact)
+
+</a>
+
+<br>
 ---
